@@ -1,0 +1,9 @@
+# segredos e dados de leads (nunca subir)
+.env
+.dev.vars
+quiz/data/
+# ferramentas locais
+node_modules/
+.wrangler/
+.claude/
+.DS_Store
